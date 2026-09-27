@@ -2084,9 +2084,9 @@ body.dark .floating-card {
 
 .footer {
 
-    background: var(--text);
+    background: #111111;
 
-    color: var(--bg);
+    color: #ffffff;
 
     padding: 70px 0 25px;
 }
@@ -2115,7 +2115,7 @@ body.dark .floating-card {
 
 .footer-brand p {
 
-    color: rgba(255,255,255,0.45);
+    color: rgba(255,255,255,0.55);
 
     font-size: 12px;
 
@@ -2181,7 +2181,7 @@ body.dark .floating-card {
 .footer-column a,
 .footer-column span {
 
-    color: rgba(255,255,255,0.5);
+    color: rgba(255,255,255,0.55);
 
     font-size: 11px;
 
